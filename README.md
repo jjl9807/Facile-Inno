@@ -8,7 +8,7 @@
 
 ## 主要特性
 
-1. 基于 [league/commonmark](https://commonmark.thephpleague.com/) 的 Markdown 解析模块，接管 Typecho 内置的 [HyperDown](https://github.com/SegmentFault/HyperDown) 功能
+1. 基于 [league/commonmark](https://commonmark.thephpleague.com/) 实现 Markdown 解析，接管 Typecho 内置的 [HyperDown](https://github.com/SegmentFault/HyperDown) 模块功能
    1. 完美支持 [CommonMark](https://spec.commonmark.org/) 和 [GitHub-Flavored Markdown](https://github.github.com/gfm/) 规范
    2. Mermaid, Flow 语法支持
    3. GitHub-Flavored Alert 语法支持
