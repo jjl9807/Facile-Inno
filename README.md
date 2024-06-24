@@ -1,4 +1,4 @@
-![](assets/facile-inno.png)
+![](assets/banner.png)
 
 # Facile-Inno
 
